@@ -21,10 +21,18 @@ npm start
 ```
 
 ### Frontend
-- cd frontend
-- npx create-react-app 
-- npm install
-- npm start
+```
+cd frontend
+```
+```
+ npx create-react-app 
+ ```
+ ```
+ npm install
+ ```
+ ```
+ npm start
+ ```
 
 ##  Where the Scores Are Stored
 Scores are stored in backend/data/report.json as JSON.
