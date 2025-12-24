@@ -25,4 +25,6 @@ Scores are stored in backend/data/report.json as JSON.
 - Score < 6 → Needs improvement
 
 The feedback updates automatically when scores change.
+
+# Output
  <img src="/Screenshot 2025-12-24 221304.png">
