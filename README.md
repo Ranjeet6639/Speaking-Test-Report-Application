@@ -7,10 +7,18 @@ It displays a candidate’s speaking performance in a Speechace-style report for
 ## ▶️ How to Run the Project
 
 ### Backend
-- cd backend
-- npm install express cors
-- node server.js
-- npm start
+```
+cd backend
+```
+```
+npm install express cors
+```
+ ```
+ node server.js
+ ```
+ ```
+npm start
+```
 
 ### Frontend
 - cd frontend
