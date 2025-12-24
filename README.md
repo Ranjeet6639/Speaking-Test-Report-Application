@@ -14,6 +14,7 @@ It displays a candidate’s speaking performance in a Speechace-style report for
 
 ### Frontend
 - cd frontend
+- npx create-react-app 
 - npm install
 - npm start
 
