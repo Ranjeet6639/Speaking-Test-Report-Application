@@ -7,19 +7,19 @@ It displays a candidate’s speaking performance in a Speechace-style report for
 ## ▶️ How to Run the Project
 
 ### Backend
-cd backend
-npm install express cors
-node server.js
+- cd backend
+- npm install express cors
+- node server.js
 
 ### Frontend
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
-## 📊 Where the Scores Are Stored
+##  Where the Scores Are Stored
 Scores are stored in backend/data/report.json as JSON.
 
-## 🧠 How Feedback Logic Works
+##  How Feedback Logic Works
 - Score ≥ 8 → Excellent performance
 - Score 6–7 → Good performance
 - Score < 6 → Needs improvement
