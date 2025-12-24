@@ -10,6 +10,7 @@ It displays a candidate’s speaking performance in a Speechace-style report for
 - cd backend
 - npm install express cors
 - node server.js
+- npm start
 
 ### Frontend
 - cd frontend
