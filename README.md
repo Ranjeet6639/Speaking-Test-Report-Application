@@ -38,9 +38,9 @@ cd frontend
 Scores are stored in backend/data/report.json as JSON.
 
 ##  How Feedback Logic Works
-- Score ≥ 8 → Excellent performance
-- Score 6–7 → Good performance
-- Score < 6 → Needs improvement
+- Score ≥ 8 → Excellent performance.
+- Score 6–7 → Good performance.
+- Score < 6 → Needs improvement.
 
 The feedback updates automatically when scores change.
 
